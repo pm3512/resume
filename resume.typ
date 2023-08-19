@@ -88,6 +88,6 @@ Summer 2022 \
 #chiline()
 
 *Languages*: JavaScript/TypeScript, HTML/CSS, Python, SQL, C, C++, Go, Bash, Java\
-*Frameworks*: React, Next.js, Angular, Django, Express, Prisma, Jest, Cypress, PyTorch, TensorFlow, JAX\
+*Frameworks*: React, Next.js, Tailwind, Angular, Django, Express, Prisma, Jest, Cypress, PyTorch, TensorFlow, JAX\
 *Tools*: Linux, MongoDB, MySQL, Git, Perforce, Jenkins, Vim, LaTeX, Typst\
 *Soft Skills*: Teamwork, communication, adaptability, work ethic, attention to detail
