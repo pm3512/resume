@@ -27,7 +27,7 @@
 
 // header
 #align(center)[
-  = Alex Obolenskiy
+  = Alexander Obolenskiy
 
   #iconText("icons/email.png", "obol@cmu.edu", "mailto:obol@cmu.edu", 0.2em, 1em)
   #iconText("icons/linkedin.png", "linkedin.com/in/alexander-obolenskiy", "https://www.linkedin.com/in/alexander-obolenskiy/", 0.15em, 1em)
