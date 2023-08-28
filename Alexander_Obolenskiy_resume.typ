@@ -54,7 +54,7 @@ BS in Computer Science with concentration in Machine Learning. \
 == Experience
 #chiline()
 
-*Software Engineering Intern*, InterSystems Corporation #h(1fr) Summer 2022, Summer 2023 \
+*Software Engineering Intern*, InterSystems  #h(1fr) Summer 2022, Summer 2023 \
 Summer 2023 \
 - Designed and developed a dashboard for a version control application using Angular and SQL.
 - Effectively communicated with stakeholders to obtain specifications and feedback.
