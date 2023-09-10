@@ -4,10 +4,10 @@
 
 #show link: underline
 
-#set text(size: 11.7pt)
+#set text(size: 11pt)
 
 #set page(
-  margin: (x: 0.9cm, y: 1.3cm),
+  margin: (x: 1in, y: 1.3cm),
 )
 
 // text with an icon and link (used in header)
@@ -36,6 +36,7 @@
 
   #iconText("icons/phone.png", "878-999-6928", "", 0.2em, 1em)
   #iconText("icons/github.png", "github.com/pm3512", "https://github.com/pm3512", 0.2em, 1.2em)
+  F-1 Student
   #if useAddress [
     #box([401 Shady Ave, Apt A401,\ Pittsburgh, PA 15206])
   ]
