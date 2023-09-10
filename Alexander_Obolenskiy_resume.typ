@@ -33,10 +33,9 @@
 
   #iconText("icons/email.png", "obol@cmu.edu", "mailto:obol@cmu.edu", 0.2em, 1em)
   #iconText("icons/linkedin.png", "linkedin.com/in/alexander-obolenskiy", "https://www.linkedin.com/in/alexander-obolenskiy/", 0.15em, 1em)
-  #iconText("icons/phone.png", "878-999-6928", "", 0.2em, 1em)
 
+  #iconText("icons/phone.png", "878-999-6928", "", 0.2em, 1em)
   #iconText("icons/github.png", "github.com/pm3512", "https://github.com/pm3512", 0.2em, 1.2em)
-  #iconText("icons/googlescholar.svg", "Google Scholar", "https://scholar.google.com/citations?&user=8ew3do4AAAAJ", 0.2em, 1em)
   #if useAddress [
     #box([401 Shady Ave, Apt A401,\ Pittsburgh, PA 15206])
   ]
