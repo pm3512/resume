@@ -46,18 +46,20 @@
 == Education
 #chiline()
 
-*Carnegie Mellon University*, School of Computer Science #h(1fr) Expected graduation: December 2024 \
+*Carnegie Mellon University*, School of Computer Science #h(1fr) 2021-2024 \
 BS in Computer Science with concentration in Machine Learning. \
-*GPA*: 3.96, Dean's List: Fall 2021 -- Present. \
-*Coursework*: Software Engineering (17-313), Operating Systems (15-410), Computer Systems (15-213), Distributed Systems (15-440), Algorithms & Data Structures (15-210), Program Analysis (17-355), Intro to Machine Learning (PhD, 10-701), Deep Learning (10-417), Generative AI (10-423).
+*GPA*: 3.90, Dean's List: Fall 2021 -- Spring 2024. \
+*Coursework*: Software Engineering (17-313), Operating Systems (15-410), Computer Systems (15-213), Distributed Systems (15-440), Algorithms & Data Structures (15-210), Program Analysis (17-355), Intro to Machine Learning (PhD, 10-701), Deep Learning (10-417), Generative AI (10-423)
 
 == Experience
 #chiline()
 
-*Software Engineering Intern*, Jane Street #h(1fr) May-August 2024
+*Software Engineering Intern*, Jane Street #h(1fr) May - August 2024
 
 - Optimized an internal routing application to achieve an 80\% speedup.
 - Developed a compiler frontend for a domain specific language
+
+*Software Engineer*, Jane Street #h(1fr) February 2025 - Present
 
 #dashedline()
 
@@ -98,5 +100,5 @@ Summer 2022 \
 
 *Languages*: JavaScript/TypeScript, HTML/CSS, Python, SQL, OCaml C, C++, Go, Bash, Java\
 *Frameworks*: React, Next.js, Tailwind, Angular, Django, Express, Prisma, Jest, Cypress, PyTorch, TensorFlow, JAX\
-*Tools*: Linux, MongoDB, MySQL, Git, Perforce, Jenkins, Vim, LaTeX, Typst\
-*Soft Skills*: Teamwork, communication, adaptability, work ethic, attention to detail
+// *Tools*: Linux, MongoDB, MySQL, Git, Perforce, Jenkins, Vim, LaTeX, Typst\
+// *Soft Skills*: Teamwork, communication, adaptability, work ethic, attention to detail
